@@ -1,3 +1,3 @@
 ##Hellorb
 =======
-My very first Hello World app!
+Trying Git for the very first time!
